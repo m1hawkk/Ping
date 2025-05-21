@@ -1,0 +1,126 @@
+===== Ket qua ping: 10.18.8.11 =====
+
+Pinging 10.18.8.11 with 32 bytes of data:
+Reply from 10.18.8.11: bytes=32 time=2ms TTL=126
+Reply from 10.18.8.11: bytes=32 time=2ms TTL=126
+Reply from 10.18.8.11: bytes=32 time=2ms TTL=126
+Reply from 10.18.8.11: bytes=32 time=2ms TTL=126
+
+Ping statistics for 10.18.8.11:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 2ms, Average = 2ms
+
+===== Ket qua ping: 10.18.12.13 =====
+
+Pinging 10.18.12.13 with 32 bytes of data:
+Reply from 10.18.12.13: bytes=32 time=2ms TTL=63
+Reply from 10.18.12.13: bytes=32 time=2ms TTL=63
+Reply from 10.18.12.13: bytes=32 time=2ms TTL=63
+Reply from 10.18.12.13: bytes=32 time=2ms TTL=63
+
+Ping statistics for 10.18.12.13:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 2ms, Average = 2ms
+
+===== Ket qua ping: 10.18.12.16 =====
+
+Pinging 10.18.12.16 with 32 bytes of data:
+Reply from 10.18.12.16: bytes=32 time=2ms TTL=63
+Reply from 10.18.12.16: bytes=32 time=2ms TTL=63
+Reply from 10.18.12.16: bytes=32 time=3ms TTL=63
+Reply from 10.18.12.16: bytes=32 time=2ms TTL=63
+
+Ping statistics for 10.18.12.16:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 3ms, Average = 2ms
+
+===== Ket qua ping: 10.18.12.14 =====
+
+Pinging 10.18.12.14 with 32 bytes of data:
+Reply from 10.18.12.14: bytes=32 time=2ms TTL=63
+Reply from 10.18.12.14: bytes=32 time=3ms TTL=63
+Reply from 10.18.12.14: bytes=32 time=3ms TTL=63
+Reply from 10.18.12.14: bytes=32 time=2ms TTL=63
+
+Ping statistics for 10.18.12.14:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 3ms, Average = 2ms
+
+===== Ket qua ping: 10.18.12.11 =====
+
+Pinging 10.18.12.11 with 32 bytes of data:
+Reply from 10.18.12.11: bytes=32 time=2ms TTL=63
+Reply from 10.18.12.11: bytes=32 time=2ms TTL=63
+Reply from 10.18.12.11: bytes=32 time=3ms TTL=63
+Reply from 10.18.12.11: bytes=32 time=2ms TTL=63
+
+Ping statistics for 10.18.12.11:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 3ms, Average = 2ms
+
+===== Ket qua ping: 10.18.12.12 =====
+
+Pinging 10.18.12.12 with 32 bytes of data:
+Reply from 10.18.12.12: bytes=32 time=2ms TTL=63
+Reply from 10.18.12.12: bytes=32 time=2ms TTL=63
+Reply from 10.18.12.12: bytes=32 time=3ms TTL=63
+Reply from 10.18.12.12: bytes=32 time=2ms TTL=63
+
+Ping statistics for 10.18.12.12:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 3ms, Average = 2ms
+
+===== Ket qua ping: 10.18.12.15 =====
+
+Pinging 10.18.12.15 with 32 bytes of data:
+Reply from 10.18.12.15: bytes=32 time=1ms TTL=63
+Reply from 10.18.12.15: bytes=32 time=2ms TTL=63
+Reply from 10.18.12.15: bytes=32 time=3ms TTL=63
+Reply from 10.18.12.15: bytes=32 time=2ms TTL=63
+
+Ping statistics for 10.18.12.15:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1ms, Maximum = 3ms, Average = 2ms
+
+===== Ket qua ping: 10.18.108.11 =====
+
+Pinging 10.18.108.11 with 32 bytes of data:
+Reply from 10.18.108.11: bytes=32 time=3ms TTL=255
+Reply from 10.18.108.11: bytes=32 time=9ms TTL=255
+Reply from 10.18.108.11: bytes=32 time=8ms TTL=255
+Reply from 10.18.108.11: bytes=32 time=3ms TTL=255
+
+Ping statistics for 10.18.108.11:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 9ms, Average = 5ms
+
+===== Ket qua ping: 10.18.8.111 =====
+
+Pinging 10.18.8.111 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 10.18.8.111:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+===== Ket qua ping: 10.18.96.206 =====
+
+Pinging 10.18.96.206 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 10.18.96.206:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
