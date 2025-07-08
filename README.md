@@ -9,4 +9,5 @@
 - 文件名：result.txt
 - After that, run the script to ping the IP addresses,and save the ping results to a local .txt file.
 - File name: result.txt
+  
 ![image](https://github.com/user-attachments/assets/0bafd807-d9dd-4ac9-a911-d941e4ad3eb0)
